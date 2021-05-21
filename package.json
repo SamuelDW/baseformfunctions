@@ -1,0 +1,13 @@
+{
+    "name": "@kpopfan4life/baseformfunctions",
+    "version": "1.0.0",
+    "description": "A set of resuable components for forms",
+    "license": "MIT",
+    "repository": "samueldw/baseformfunctions",
+    "main": "index.js",
+    "keywords": [
+        "kpopfan4life",
+        "es6",
+        "forms"
+    ]
+}

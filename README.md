@@ -1,2 +1,3 @@
-# baseformfunctions
-A collection of basic functions to reuse for all forms
+[![npm (scoped)]]
+[![npm bundle size (minified)]]
+(https://github.com/SamuelDW/baseformfunctions)
